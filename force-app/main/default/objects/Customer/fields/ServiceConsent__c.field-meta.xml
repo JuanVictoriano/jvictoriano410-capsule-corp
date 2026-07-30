@@ -3,7 +3,7 @@
     <fullName>ServiceConsent__c</fullName>
     <defaultValue>true</defaultValue>
     <description>This checkbox determines if the customer agrees to services</description>
-    <inlineHelpText>By defaukt, this checkbox is checked true</inlineHelpText>
+    <inlineHelpText>This checkbox is true by deafult</inlineHelpText>
     <label>Service Consent</label>
     <type>Checkbox</type>
 </CustomField>
