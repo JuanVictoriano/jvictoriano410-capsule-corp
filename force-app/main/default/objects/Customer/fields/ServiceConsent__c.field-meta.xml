@@ -2,8 +2,8 @@
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>ServiceConsent__c</fullName>
     <defaultValue>true</defaultValue>
-    <description>test</description>
-    <inlineHelpText>test</inlineHelpText>
+    <description>This checkbox determines if the customer agrees to services</description>
+    <inlineHelpText>By defaukt, this checkbox is checked true</inlineHelpText>
     <label>Service Consent</label>
     <type>Checkbox</type>
 </CustomField>
